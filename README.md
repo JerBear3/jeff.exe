@@ -5,3 +5,5 @@ The greatest game ever created
 - Use WASD to move
 - Avoid getting touched by smosh or it's game over
 - Escape to exit
+<br /><br />
+Created with GameMaker 8.0
